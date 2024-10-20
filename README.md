@@ -1,4 +1,4 @@
-# tp-lab03
+# tp-lab-3
 Study of project build automation systems on the example of CMake.
 
 ## Tutorial
